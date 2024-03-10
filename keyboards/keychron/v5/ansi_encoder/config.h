@@ -21,3 +21,5 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 52
+
+#define TAPPING_TOGGLE 2
